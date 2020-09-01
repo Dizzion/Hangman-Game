@@ -39,7 +39,7 @@ while True:
             player_guess_list.append('_')
         printGuessedLetter()
 
-        print("The number of allowed guesses for this word is:", attemps)
+        print("The number of allowed guesses for this word is:", attempts)
 
         # start the game
         while True:
